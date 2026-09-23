@@ -26,7 +26,7 @@ To run this project locally on your machine, follow these simple steps:
    
 2. Navigate into the project directory:
   
-   cd weather-project
+   cd react-weather-app
    
 3. Install the dependencies:
   
